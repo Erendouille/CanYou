@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CanYou.iml" filepath="$PROJECT_DIR$/.idea/modules/CanYou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CanYou.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CanYou.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1647580788/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1647580788/react-native-gradle-plugin.iml" />
     </modules>
   </component>
 </project>
